@@ -1,7 +1,4 @@
-# template-that-im-using-4-C
-Good optional template for describing your work step by step.
-
-# (Name of Work)
+# 第一学期的北邮计导作业五
 
 ## 总结
   - [开始](#开始)
@@ -19,22 +16,26 @@ Good optional template for describing your work step by step.
 ### 正在安装
 使用控制台打开exe文件(windows)
 
-	cd (name of file).exe
+	实验5_4_设计函数getDigit 递归方法.exe
 	
 ## 运行测试
 
 #### 注意: 
 开始
-
-- 输出
 	
 - 输入
+
+		666666666666666666
+- 输出
+
+		The integer 666666666666666666 has 18 digits.
 
 结束
 
 ## 部署方式
 您可以使用复制粘贴使用此代码
 
+- 计算数位
 
 ## 建于
 使用DevCpp+编写的代码  https://sourceforge.net/projects/orwelldevcpp/
